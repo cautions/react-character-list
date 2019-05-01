@@ -24,7 +24,7 @@ const Form = ({ handleSubmit }) => {
         />
       </div>
       <div className="form-group">
-        <label htmlFor="job">Job</label>
+        <label htmlFor="job">Email</label>
         <input
           className="form-control"
           type="text"
